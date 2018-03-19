@@ -22,3 +22,20 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+minitests
+
+layout of the application
+
+integration test
+
+model tests - unit testing
+
+TDD - design the app functionality based on a test first approach
+
+write the test for the functionality
+
+build minimum code necessary to make each test pass
+
+refactor code
+
